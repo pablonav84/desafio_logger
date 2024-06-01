@@ -1,0 +1,16 @@
+<h2>Su Producto Seleccionado</h2>
+<hr>
+<h3 data-carrito="{{usuario.cart}}" id="h3Usuario">Usuario conectado: {{usuarioDTO.fullName}}</h3>
+<p>Codigo del Producto: {{product.code}}</p>
+<p>Marca: {{product.title}}</p>
+<p>Detalle: {{product.description}}</p>
+<p>Categoria: {{product.category}}</p>
+<p>precio: {{product.price}}</p>
+<br>
+<button onclick="window.location.href='/productos'">Volver</button>
+<button onclick="agregar('{{product._id}}')">Agregar al carrito</button>
+<br>
+<br>
+<br>
+<script src="/js/productos.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>

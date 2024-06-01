@@ -1,0 +1,702 @@
+[
+     {
+          "id": "012939caf3c9d6adf7d4ceab",
+          "code": 15885623,
+          "descrip": "Pants",
+          "precio": "4450.00",
+          "stock": 66
+     },
+     {
+          "id": "bb7ed227cf0bf6acb32dba60",
+          "code": 49068552,
+          "descrip": "Bacon",
+          "precio": "4563.00",
+          "stock": 133
+     },
+     {
+          "id": "c4fb18fd5ab5c442c13e1f4c",
+          "code": 96996330,
+          "descrip": "Keyboard",
+          "precio": "5978.00",
+          "stock": 220
+     },
+     {
+          "id": "0a5efe7ea27eeedf664c6efc",
+          "code": 71669345,
+          "descrip": "Keyboard",
+          "precio": "3067.00",
+          "stock": 673
+     },
+     {
+          "id": "e18fbbed8efeade32ebdcaa2",
+          "code": 34825189,
+          "descrip": "Ball",
+          "precio": "5836.00",
+          "stock": 655
+     },
+     {
+          "id": "a9c95a63f12fcb4a1f7afe0f",
+          "code": 31578208,
+          "descrip": "Shirt",
+          "precio": "6855.00",
+          "stock": 635
+     },
+     {
+          "id": "da3ae9b6bb057cf7399a3bc1",
+          "code": 15752595,
+          "descrip": "Sausages",
+          "precio": "5893.00",
+          "stock": 450
+     },
+     {
+          "id": "9fabb2eafa13b6d91d41a5e7",
+          "code": 77481802,
+          "descrip": "Pizza",
+          "precio": "2672.00",
+          "stock": 282
+     },
+     {
+          "id": "11b6faa872eebc4c90faec41",
+          "code": 75588415,
+          "descrip": "Mouse",
+          "precio": "4629.00",
+          "stock": 411
+     },
+     {
+          "id": "3d5d76a80a32c6b7fac6acec",
+          "code": 93660672,
+          "descrip": "Gloves",
+          "precio": "6978.00",
+          "stock": 724
+     },
+     {
+          "id": "efeb35fbd0db8a80e53efee5",
+          "code": 96501919,
+          "descrip": "Tuna",
+          "precio": "5961.00",
+          "stock": 292
+     },
+     {
+          "id": "fd75daff3ee87ea0c65635d7",
+          "code": 19841002,
+          "descrip": "Computer",
+          "precio": "6852.00",
+          "stock": 167
+     },
+     {
+          "id": "25666345cd744e9abdbbf413",
+          "code": 30673122,
+          "descrip": "Cheese",
+          "precio": "7399.00",
+          "stock": 700
+     },
+     {
+          "id": "ee8d0ea8aaceadb5c78dfbf7",
+          "code": 81249840,
+          "descrip": "Shirt",
+          "precio": "3954.00",
+          "stock": 336
+     },
+     {
+          "id": "fb0a3dfeabe70c161fd3e5c5",
+          "code": 24250100,
+          "descrip": "Salad",
+          "precio": "5649.00",
+          "stock": 54
+     },
+     {
+          "id": "5b7193e04bf4ef892c608112",
+          "code": 22153684,
+          "descrip": "Bike",
+          "precio": "4470.00",
+          "stock": 78
+     },
+     {
+          "id": "f8d04ce75cf6f8ec3ecae3c3",
+          "code": 91919365,
+          "descrip": "Shoes",
+          "precio": "2092.00",
+          "stock": 66
+     },
+     {
+          "id": "41e625639c66a34dfdfcf2aa",
+          "code": 58540156,
+          "descrip": "Bacon",
+          "precio": "3722.00",
+          "stock": 520
+     },
+     {
+          "id": "a64c414aafbac7a5c6fd1f6e",
+          "code": 36571490,
+          "descrip": "Computer",
+          "precio": "1507.00",
+          "stock": 560
+     },
+     {
+          "id": "5d800dd12d9fcffd7a1f1eb1",
+          "code": 20871280,
+          "descrip": "Bike",
+          "precio": "3801.00",
+          "stock": 581
+     },
+     {
+          "id": "d3cda49aeefeceaf360ab9ba",
+          "code": 47743558,
+          "descrip": "Car",
+          "precio": "6115.00",
+          "stock": 8
+     },
+     {
+          "id": "aff2ffde11f0100abf131aba",
+          "code": 70263842,
+          "descrip": "Computer",
+          "precio": "6037.00",
+          "stock": 371
+     },
+     {
+          "id": "6efcbb9ab9a25ab7dcbfb4eb",
+          "code": 64962315,
+          "descrip": "Keyboard",
+          "precio": "5885.00",
+          "stock": 218
+     },
+     {
+          "id": "4fb7c8aa4ddcddab8e9439a1",
+          "code": 96401021,
+          "descrip": "Gloves",
+          "precio": "2010.00",
+          "stock": 139
+     },
+     {
+          "id": "10a2fe94cdacc6ee0ea29962",
+          "code": 69501374,
+          "descrip": "Gloves",
+          "precio": "6930.00",
+          "stock": 165
+     },
+     {
+          "id": "15ac3d245a162b8f57ca005c",
+          "code": 38531260,
+          "descrip": "Computer",
+          "precio": "6190.00",
+          "stock": 539
+     },
+     {
+          "id": "feacfddbcc880b41f688daf3",
+          "code": 19059136,
+          "descrip": "Tuna",
+          "precio": "3847.00",
+          "stock": 471
+     },
+     {
+          "id": "cf249ad764efe485dee03f0c",
+          "code": 38254393,
+          "descrip": "Salad",
+          "precio": "3179.00",
+          "stock": 332
+     },
+     {
+          "id": "68b2b04bfbdaedcae10d206e",
+          "code": 44905193,
+          "descrip": "Towels",
+          "precio": "7300.00",
+          "stock": 508
+     },
+     {
+          "id": "c317cefad879cbf8fddd7c5c",
+          "code": 62852746,
+          "descrip": "Bike",
+          "precio": "5949.00",
+          "stock": 712
+     },
+     {
+          "id": "4ae6eadad98d0b2a3b5d35de",
+          "code": 22548975,
+          "descrip": "Sausages",
+          "precio": "1357.00",
+          "stock": 444
+     },
+     {
+          "id": "c2fdbf87cd6b77978edb1cb3",
+          "code": 47750405,
+          "descrip": "Gloves",
+          "precio": "4261.00",
+          "stock": 455
+     },
+     {
+          "id": "f8ec0b7a25eb891ad49a6b73",
+          "code": 29866735,
+          "descrip": "Chicken",
+          "precio": "3364.00",
+          "stock": 562
+     },
+     {
+          "id": "e9ecae8a8ddee25fa0185cb4",
+          "code": 43194445,
+          "descrip": "Salad",
+          "precio": "2080.00",
+          "stock": 111
+     },
+     {
+          "id": "0a6df87bc3d74c32eb8ce20e",
+          "code": 10589307,
+          "descrip": "Chips",
+          "precio": "3874.00",
+          "stock": 764
+     },
+     {
+          "id": "de9ea2730f8d5e3b3ed4f196",
+          "code": 29085927,
+          "descrip": "Chair",
+          "precio": "4171.00",
+          "stock": 380
+     },
+     {
+          "id": "83f183edfa9f8befe4100011",
+          "code": 12152761,
+          "descrip": "Car",
+          "precio": "5911.00",
+          "stock": 41
+     },
+     {
+          "id": "fc1e5eecffddabeadfd77ea0",
+          "code": 72391034,
+          "descrip": "Computer",
+          "precio": "3601.00",
+          "stock": 376
+     },
+     {
+          "id": "bbb7a15beccface173c3bce2",
+          "code": 12594284,
+          "descrip": "Soap",
+          "precio": "4650.00",
+          "stock": 262
+     },
+     {
+          "id": "8b7cfdd724eebc86cefe86df",
+          "code": 20186475,
+          "descrip": "Sausages",
+          "precio": "3657.00",
+          "stock": 553
+     },
+     {
+          "id": "bb07ba7a7931c17cce8ebf45",
+          "code": 24032603,
+          "descrip": "Hat",
+          "precio": "5816.00",
+          "stock": 788
+     },
+     {
+          "id": "97fcaaecefe4f6bfe0d5baf8",
+          "code": 15139476,
+          "descrip": "Ball",
+          "precio": "2288.00",
+          "stock": 690
+     },
+     {
+          "id": "907222adbd8af638ecf3cca4",
+          "code": 70613151,
+          "descrip": "Shoes",
+          "precio": "5864.00",
+          "stock": 627
+     },
+     {
+          "id": "c93fefef10d0fd9dc5adfd9d",
+          "code": 64217028,
+          "descrip": "Keyboard",
+          "precio": "4147.00",
+          "stock": 415
+     },
+     {
+          "id": "5c89bdcd4fba1b41adc59658",
+          "code": 33417682,
+          "descrip": "Mouse",
+          "precio": "6490.00",
+          "stock": 653
+     },
+     {
+          "id": "d07e66ec589b1dadf1ed558d",
+          "code": 67534157,
+          "descrip": "Gloves",
+          "precio": "6768.00",
+          "stock": 602
+     },
+     {
+          "id": "ad5ecc7bb025465c0fecaa5c",
+          "code": 21417466,
+          "descrip": "Salad",
+          "precio": "2160.00",
+          "stock": 195
+     },
+     {
+          "id": "796b9abfafbc86f58d9e8c2a",
+          "code": 98679424,
+          "descrip": "Shirt",
+          "precio": "6734.00",
+          "stock": 583
+     },
+     {
+          "id": "4ac4c348af81c1bababfdb0d",
+          "code": 69701345,
+          "descrip": "Bacon",
+          "precio": "3186.00",
+          "stock": 182
+     },
+     {
+          "id": "fb42cfb5f2fcf2cebdb16fa2",
+          "code": 42299971,
+          "descrip": "Cheese",
+          "precio": "5888.00",
+          "stock": 151
+     },
+     {
+          "id": "c6feadc9b29f2e7cf2cfc8bd",
+          "code": 40948327,
+          "descrip": "Gloves",
+          "precio": "5439.00",
+          "stock": 679
+     },
+     {
+          "id": "ad67643c8e04877be775f43c",
+          "code": 70126828,
+          "descrip": "Tuna",
+          "precio": "7204.00",
+          "stock": 139
+     },
+     {
+          "id": "ece60fd58b8ebcaf4abaf045",
+          "code": 35334222,
+          "descrip": "Hat",
+          "precio": "2150.00",
+          "stock": 228
+     },
+     {
+          "id": "cc98de79c5d92ceddd7b95f3",
+          "code": 30203864,
+          "descrip": "Bike",
+          "precio": "5628.00",
+          "stock": 762
+     },
+     {
+          "id": "dcaafddf0aaa1c8efe9f1d4b",
+          "code": 42482964,
+          "descrip": "Towels",
+          "precio": "2372.00",
+          "stock": 439
+     },
+     {
+          "id": "9b8ad8b878bfe22a34eab6d8",
+          "code": 87240409,
+          "descrip": "Table",
+          "precio": "5010.00",
+          "stock": 507
+     },
+     {
+          "id": "d3bf8b79aad944e00dd5bbc6",
+          "code": 93944158,
+          "descrip": "Gloves",
+          "precio": "4069.00",
+          "stock": 452
+     },
+     {
+          "id": "bb192acaecd7ab8f019e1fcb",
+          "code": 89067746,
+          "descrip": "Table",
+          "precio": "6610.00",
+          "stock": 40
+     },
+     {
+          "id": "0a7edd7fea8e2019ceffe931",
+          "code": 15845866,
+          "descrip": "Mouse",
+          "precio": "5635.00",
+          "stock": 656
+     },
+     {
+          "id": "a55bc3dfcd7b114bfcc2f8dc",
+          "code": 82927638,
+          "descrip": "Chips",
+          "precio": "5251.00",
+          "stock": 349
+     },
+     {
+          "id": "f249cfcfcde4be5dc1ba3ba7",
+          "code": 98752422,
+          "descrip": "Bacon",
+          "precio": "1894.00",
+          "stock": 771
+     },
+     {
+          "id": "b3ca279a8c99bbf5199d88ee",
+          "code": 83907127,
+          "descrip": "Soap",
+          "precio": "6474.00",
+          "stock": 182
+     },
+     {
+          "id": "3d6bbea6dfb1fa9f2ce067b6",
+          "code": 80801294,
+          "descrip": "Tuna",
+          "precio": "2016.00",
+          "stock": 446
+     },
+     {
+          "id": "1e6bf0c75dcbfb88fc7689f7",
+          "code": 67250379,
+          "descrip": "Pants",
+          "precio": "3715.00",
+          "stock": 498
+     },
+     {
+          "id": "33cfe7760f9d269c08f64e3b",
+          "code": 51509467,
+          "descrip": "Chicken",
+          "precio": "3023.00",
+          "stock": 246
+     },
+     {
+          "id": "6b4418b54c5fe05d82f1a769",
+          "code": 51619753,
+          "descrip": "Fish",
+          "precio": "4515.00",
+          "stock": 93
+     },
+     {
+          "id": "427bbbc3e5c12fdcf6ee1e38",
+          "code": 48542922,
+          "descrip": "Chips",
+          "precio": "5451.00",
+          "stock": 460
+     },
+     {
+          "id": "18dc2890ebbadee46c3ddadf",
+          "code": 53210252,
+          "descrip": "Bacon",
+          "precio": "6734.00",
+          "stock": 745
+     },
+     {
+          "id": "e1cf2bf1a3aabff33c08161c",
+          "code": 89494443,
+          "descrip": "Fish",
+          "precio": "7043.00",
+          "stock": 181
+     },
+     {
+          "id": "5062fca4f3ebef2778f8d01c",
+          "code": 66464547,
+          "descrip": "Keyboard",
+          "precio": "5438.00",
+          "stock": 327
+     },
+     {
+          "id": "c8e14ce435788ba55b0de9c8",
+          "code": 93979132,
+          "descrip": "Pants",
+          "precio": "2856.00",
+          "stock": 185
+     },
+     {
+          "id": "85d668b8ddddd2e4adfbc520",
+          "code": 58502723,
+          "descrip": "Hat",
+          "precio": "5944.00",
+          "stock": 553
+     },
+     {
+          "id": "9489eabff96ff51b6adeebef",
+          "code": 29651835,
+          "descrip": "Chicken",
+          "precio": "7188.00",
+          "stock": 339
+     },
+     {
+          "id": "a5e05bd799e6bebaf0677510",
+          "code": 59212261,
+          "descrip": "Bacon",
+          "precio": "4939.00",
+          "stock": 388
+     },
+     {
+          "id": "4dccfbbc134e0f2b3b9ee3f5",
+          "code": 28869811,
+          "descrip": "Chips",
+          "precio": "3016.00",
+          "stock": 343
+     },
+     {
+          "id": "12ecedc0cef197e2ad3ca1a9",
+          "code": 49257507,
+          "descrip": "Gloves",
+          "precio": "3965.00",
+          "stock": 567
+     },
+     {
+          "id": "4a4f2d87bec6370b7e7cad26",
+          "code": 86128285,
+          "descrip": "Tuna",
+          "precio": "3413.00",
+          "stock": 209
+     },
+     {
+          "id": "8c98b17dbcb7eeeaa20a8abf",
+          "code": 85351853,
+          "descrip": "Gloves",
+          "precio": "1977.00",
+          "stock": 463
+     },
+     {
+          "id": "2b42cbf7eef6fc1df506a6cc",
+          "code": 47530509,
+          "descrip": "Pants",
+          "precio": "5693.00",
+          "stock": 333
+     },
+     {
+          "id": "d4c1c83c16b7fabf851270ab",
+          "code": 44952938,
+          "descrip": "Chips",
+          "precio": "3272.00",
+          "stock": 755
+     },
+     {
+          "id": "19b52b2a7dfe0feb701cb9cd",
+          "code": 63438705,
+          "descrip": "Car",
+          "precio": "5185.00",
+          "stock": 497
+     },
+     {
+          "id": "3e51a2dfac4defbfa30da994",
+          "code": 92693120,
+          "descrip": "Keyboard",
+          "precio": "5455.00",
+          "stock": 765
+     },
+     {
+          "id": "deba676fbeef5da1fbb11fb2",
+          "code": 47298018,
+          "descrip": "Pizza",
+          "precio": "5734.00",
+          "stock": 717
+     },
+     {
+          "id": "6c5bff7c037ba2fbd7d0afc1",
+          "code": 31507007,
+          "descrip": "Pizza",
+          "precio": "1396.00",
+          "stock": 696
+     },
+     {
+          "id": "fd9d07dcfe3c12be193c6bbf",
+          "code": 42454097,
+          "descrip": "Cheese",
+          "precio": "7267.00",
+          "stock": 301
+     },
+     {
+          "id": "16d1e20a1bf60b7b4d24f696",
+          "code": 48456771,
+          "descrip": "Gloves",
+          "precio": "4541.00",
+          "stock": 451
+     },
+     {
+          "id": "c3ed737ee0fd8d98afc4db67",
+          "code": 12079249,
+          "descrip": "Bacon",
+          "precio": "4181.00",
+          "stock": 265
+     },
+     {
+          "id": "b90eb0abe859ddac23f9ff4b",
+          "code": 41128114,
+          "descrip": "Mouse",
+          "precio": "4784.00",
+          "stock": 73
+     },
+     {
+          "id": "3fb45964e51deff862b84c34",
+          "code": 70181152,
+          "descrip": "Mouse",
+          "precio": "5711.00",
+          "stock": 122
+     },
+     {
+          "id": "de7d471c7d51deac1fc3a5ac",
+          "code": 87891596,
+          "descrip": "Chair",
+          "precio": "3926.00",
+          "stock": 613
+     },
+     {
+          "id": "3daff06a559a5ca1fdd2ed3c",
+          "code": 17281914,
+          "descrip": "Car",
+          "precio": "5741.00",
+          "stock": 455
+     },
+     {
+          "id": "befc9f9e09cbb9ceaf412fc5",
+          "code": 67486972,
+          "descrip": "Sausages",
+          "precio": "7401.00",
+          "stock": 601
+     },
+     {
+          "id": "33cf0caa9b8936d4fd4efdf4",
+          "code": 91575214,
+          "descrip": "Tuna",
+          "precio": "4778.00",
+          "stock": 220
+     },
+     {
+          "id": "c8bbc0397ae7f5f5ade667db",
+          "code": 87856126,
+          "descrip": "Shirt",
+          "precio": "6353.00",
+          "stock": 720
+     },
+     {
+          "id": "5777babacdbdba4a813af1bc",
+          "code": 80666425,
+          "descrip": "Salad",
+          "precio": "7049.00",
+          "stock": 122
+     },
+     {
+          "id": "2c1ca1fc3b03f074cdfc7f7f",
+          "code": 39858833,
+          "descrip": "Ball",
+          "precio": "3523.00",
+          "stock": 686
+     },
+     {
+          "id": "cef978d544c337611159befb",
+          "code": 75359843,
+          "descrip": "Sausages",
+          "precio": "5340.00",
+          "stock": 489
+     },
+     {
+          "id": "f52e6fdbfdb37dfc18e1f159",
+          "code": 77064596,
+          "descrip": "Bike",
+          "precio": "2413.00",
+          "stock": 446
+     },
+     {
+          "id": "ffcb70bf1eacd3a84ffa9b8a",
+          "code": 55022017,
+          "descrip": "Sausages",
+          "precio": "7050.00",
+          "stock": 154
+     },
+     {
+          "id": "ba008cf63e9e1cafcb579ad2",
+          "code": 92682646,
+          "descrip": "Computer",
+          "precio": "5840.00",
+          "stock": 796
+     }
+]

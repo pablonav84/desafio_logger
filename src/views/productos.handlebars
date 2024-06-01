@@ -1,0 +1,61 @@
+<h2>Productos</h2>
+<hr>
+<h3 data-carrito="{{usuario.cart}}" id="h3Usuario">Usuario conectado: {{usuarioDTO.fullName}}</h3>
+<ul>
+    {{#each productos}}
+  	<ul>
+    <li>Marca: {{title}} - Detalle:{{description}} - id:{{code}}</li>
+    <button onclick="window.location.href='/productos/{{_id}}'">Detalles</button>
+    <button onclick="agregar('{{_id}}')">Agregar al carrito</button>
+    <br><br>
+  	</ul>
+  {{/each}}
+</ul>
+
+<button onclick="window.location.href='/productos?pagina=1'">Pag.1</button>
+
+
+{{#if hasPrevPage}}
+    <button onclick="window.location.href='/productos?pagina={{PrevPage}}'">Pag.Ant.</button>
+
+{{/if}}
+
+<input type="text" id="pagina">
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        let inputPagina = document.getElementById("pagina");
+        const urlParams = new URLSearchParams(window.location.search); // Obtener los parámetros de la URL
+        const paginaParam = urlParams.get('pagina'); // Obtener el valor del parámetro 'pagina'
+        if (paginaParam) {
+            inputPagina.value = paginaParam; // Establecer el valor del campo de entrada con el valor del parámetro 'pagina'
+        }
+        inputPagina.focus(); // Enfocar automáticamente el campo de entrada
+
+        inputPagina.addEventListener("change", function() {
+            let pageNumber = parseInt(inputPagina.value); // Convertir el valor a un número entero
+            if (!isNaN(pageNumber) && pageNumber > 0 && pageNumber <= {{totalPages}}) {
+                window.location.href = "/productos?pagina=" + pageNumber;
+            } else {
+                alert("Por favor, ingresa un número de página válido.");
+                inputPagina.value = "{{currentPage}}"; // Restablecer el valor del campo de entrada a la página actual
+            }
+        });
+    });
+</script>
+
+{{#if hasNextPage}}
+    <button onclick="window.location.href='/productos?pagina={{nextPage}}'">Pag.Sig.</button>
+
+{{/if}}
+
+<button onclick="window.location.href='/productos?pagina={{totalPages}}'">Ult. Pag.</button>
+<br>
+<button onclick="window.location.href='/api/carritos/{{usuario.cart}}'">Ver Carrito</button>
+<br>
+<button onclick="window.location.href='/home'">Volver</button>
+<br>
+<br>
+<br>
+
+<script src="/js/productos.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
